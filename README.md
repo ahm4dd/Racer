@@ -67,9 +67,11 @@ You need a userscript manager browser extension.
 ### Installation
 
 1.  Make sure you have one of the managers above installed.
-2.  Click here to install the script: `[LINK THAT I WILL ADD LATER]`
-3.  Your userscript manager will open a new tab. Click the "Install" button.
-
+2.  Click here to install the script: [DOWNLOAD](https://github.com/ahm4dd/Racer/releases/download/Racer/racer-bot.js)
+3.  Once you installed it, open your userscript manager in the extensions (Browser extensions).
+4.  Click on userscript manager, then click on create script, then paste the downloaded script there.
+5.  Click on file (Top left) then save.
+6.  Make sure you enable the script in another tap by clicking on your userscript manager and enabling the racer bot.
 ---
 
 ## How to Use
