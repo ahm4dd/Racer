@@ -7,6 +7,7 @@
 // @match        https://play.typeracer.com/*
 // @require      https://unpkg.com/tesseract.js@2.1.0/dist/tesseract.min.js
 // @grant        GM_xmlhttpRequest
+// @license      MIT
 // ==/UserScript==
 
 /*
