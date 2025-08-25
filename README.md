@@ -15,7 +15,7 @@ The goal is to provide a safe, hands-on learning experience for developers, stud
 
 Many systems rely on showing users an image of distorted text to prove they are human. The assumption is that computers cannot "read" text inside an image.
 
-This assumption is no longer safe. Modern, open-source OCR libraries like **Tesseract.js** can be integrated directly into browser scripts. With minimal image pre-processing, these libraries can achieve high accuracy in converting image text back into character strings, allowing a bot to programmatically solve the challenge.
+This assumption is no longer safe. Modern, open-source OCR libraries like **Tesseract.js** can be integrated directly into browser scripts. With minimal image pre-processing, these libraries can achieve high accuracy in converting image text back into character strings, allowing a bot to programmatically solve the challenge (There are better ways to do this, but for illustration, we will proceed with our current code).
 
 This project demonstrates this entire process, but stops short of submitting the correct answer, ensuring it remains an educational tool.
 
