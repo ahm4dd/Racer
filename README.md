@@ -9,6 +9,20 @@ This project is a **de-weaponized, educational tool** designed to demonstrate a 
 
 The goal is to provide a safe, hands-on learning experience for developers, students like me, without providing a tool that can be used for actual cheating.
 
+
+## Getting Started
+
+### Prerequisites
+
+You need a userscript manager browser extension.
+- [**Tampermonkey**](https://www.tampermonkey.net/) (Recommended for Chrome, Firefox, Edge, Safari)
+
+### Installation
+
+1.  Make sure you have one of the managers above installed.
+2.  Click here to install the script: [DOWNLOAD](https://greasyfork.org/en/scripts/547245-typeracer-racer-v3-4)
+3.  Once you installed it, open your userscript manager and make sure the script is enabled.
+ 
 ---
 
 ### The Vulnerability Explained: Image CAPTCHAs vs. OCR
@@ -57,19 +71,6 @@ This project is for learning and responsible disclosure. Using automated tools t
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-You need a userscript manager browser extension.
-- [**Tampermonkey**](https://www.tampermonkey.net/) (Recommended for Chrome, Firefox, Edge, Safari)
-
-### Installation
-
-1.  Make sure you have one of the managers above installed.
-2.  Click here to install the script: [DOWNLOAD](https://greasyfork.org/en/scripts/547245-typeracer-racer-v3-4)
-3.  Once you installed it, open your userscript manager and make sure the script is enabled.
----
 
 ## How to Use
 
